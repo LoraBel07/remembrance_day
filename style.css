@@ -1,0 +1,30 @@
+body {
+    /* margin: -300px auto; */
+    background-image: url(img/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-color: black;
+}
+/* .one {
+    
+}
+.two {
+   
+}
+.three {
+    
+} */
+.box {
+    position: absolute;
+    display: none;
+
+    /* border-radius: 80%;
+    display: inline-block;
+    margin: 70px; */
+}
+#section_soldiers {
+    position: absolute;
+    margin: 23% auto;
+}
+
