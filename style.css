@@ -6,25 +6,18 @@ body {
     background-size: cover;
     background-color: black;
 }
-/* .one {
-    
-}
-.two {
-   
-}
-.three {
-    
-} */
-.box {
-    position: absolute;
-    /* display: none; */
 
-    /* border-radius: 80%;
+.box {
+    /* position: absolute;     */
     display: inline-block;
-    margin: 70px; */
+    margin: 10px 5px;
 }
 #section_soldiers {
     position: absolute;
     margin: 23% auto;
+}
+#section_flovers {
+    position: absolute;
+    margin: 30% 2% 2% 2%;
 }
 
