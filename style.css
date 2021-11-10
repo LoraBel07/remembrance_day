@@ -17,7 +17,7 @@ body {
 } */
 .box {
     position: absolute;
-    display: none;
+    /* display: none; */
 
     /* border-radius: 80%;
     display: inline-block;
